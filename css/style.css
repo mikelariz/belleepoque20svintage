@@ -84,17 +84,17 @@ header .navbar-white {
 	font-family:Dosis;
 }
 .text-pageheader {
-	 text-align:center;
-	color:000000;
-	z-index:2;
-	position:relative;
-	font-size:45px;
-	line-height:90px;
-	text-transform:uppercase;
-	padding-top:100px;
-	padding-bottom:100px;
-	font-weight:700;
-	font-family:Dosis;
+	text-align: center;
+	color: #000;
+	z-index: 2;
+	position: relative;
+	font-size: 45px;
+	line-height: 90px;
+	text-transform: uppercase;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	font-weight: 700;
+	font-family: Dosis;
 }
 .subtext-image {
 	text-transform:none;
